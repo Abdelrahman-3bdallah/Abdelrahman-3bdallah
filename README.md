@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Abdelrahman Abdallah, an AI Engineer from Egypt. I study at Zagazig University.</p>
+<p align="left">I am Abdelrahman Abdallah, I'm AI Engineer from Egypt. I study at Zagazig National University.</p>
 
 ###
 
@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
